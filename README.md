@@ -12,7 +12,7 @@
 
 [<img src="https://capsule-render.vercel.app/api?type=waving&color=0A0&height=100&section=header"/>](https://capsule-render.vercel.app/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=600&size=43&duration=3000&pause=1000&color=0A9529&center=true&vCenter=true&width=750&height=175&lines=My+name+is+Thiago+Sousa;I+am+a+Full-Stack+Developer;Dedicated+to+Cryptography;Scientist+by+vocation+💚;CEO+of+EBS+Security+Systems;Studying+BCET+at+UFRB;Always+active+on+GitHub;Available+for+projects;Full+description+below+😉;Find+the+Easter+Egg+🕵️‍♂️)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=600&size=43&duration=3000&pause=1000&color=0A9529&center=true&vCenter=true&width=750&height=175&lines=My+name+is+Kingston+C;I+am+a+Full-Stack+Developer;Specilist+In+React;Scientist+by+vocation+💚;Always+active+on+GitHub;Available+for+projects;Full+description+below+😉;Find+the+Easter+Egg+🕵️‍♂️)](https://git.io/typing-svg)
 
 </div>
 
