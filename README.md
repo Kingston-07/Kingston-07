@@ -10,7 +10,7 @@
 
 <div align=center>
 
-[<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Kingston%20C&textBg=false&fontColor=00ff00&fontAlign=50&animation=scaleIn&descAlign=56"/>](https://capsule-render.vercel.app/)
+[<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Kingston%20%20C&section=header&reversal=false&animation=fadeIn"/>](https://capsule-render.vercel.app/)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lucida+Console&weight=600&size=43&duration=3000&pause=1000&color=0A9529&center=true&vCenter=true&width=750&height=175&lines=My+name+is+Kingston+C;I+am+a+Full-Stack+Developer;Specilist+In+React;Scientist+by+vocation+💚;Always+active+on+GitHub;Available+for+projects;Full+description+below+😉;Find+the+Easter+Egg+🕵️‍♂️)](https://git.io/typing-svg)
 
