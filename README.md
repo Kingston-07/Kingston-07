@@ -96,4 +96,4 @@ Currently available to work on new projects involving
 
 ---
 
-[<img src="https://capsule-render.vercel.app/api?type=waving&height=195&color=gradient&text=Input%20text&section=footer"/>](https://capsule-render.vercel.app/)
+[<img src="https://capsule-render.vercel.app/api?type=wave&height=260&color=gradient&section=footer&reversal=false"/>](https://capsule-render.vercel.app/)
