@@ -5,8 +5,8 @@
 
 ---
 
-<h1 align="center">Hey 👋, I'm Kingston C</h1>
-<h3 align="center">💻 Web Developer | 🟢 Active Daily | 🚀 Building Modern Web Apps</h3>
+<h1 align="center">Hey, I'm Kingston C</h1>
+<h3 align="center"> Web Developer |  Active Daily |  Building Modern Web Apps</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00EAFF&center=true&vCenter=true&width=500&lines=Always+Online+%F0%9F%9F%A2;Frontend+Developer;MERN+Stack+Developer;Consistency+is+My+Power" />
@@ -14,12 +14,12 @@
 
 ---
 
-## 🟢 Daily Dev Presence
+##  Daily Dev Presence
 
 <p align="center">
-  🔥 Active Every Day &nbsp;&nbsp;|&nbsp;&nbsp;
-  💻 Consistent Coding &nbsp;&nbsp;|&nbsp;&nbsp;
-  🚀 Growing Step by Step
+   Active Every Day &nbsp;&nbsp;|&nbsp;&nbsp;
+   Consistent Coding &nbsp;&nbsp;|&nbsp;&nbsp;
+   Growing Step by Step
 </p>
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 ```yaml
 Name: Kingston C
