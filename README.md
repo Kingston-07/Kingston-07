@@ -1,12 +1,8 @@
 <!-- 🌊 HEADER -->
 <p align="center">
-<<<<<<< HEAD
+
   <img src="./DripBanner.png" width="100%" />
 </p>
-
-<h1 align="center">✨ Hello, I'm Ahbed ✨</h1>
-<p align="center">
-  💻 Web Developer | 🤖 AI Enthusiast | 🚀 Building Cool Stuff
 
 
 <h1 align="center">Hey, I'm Kingston C</h1>
