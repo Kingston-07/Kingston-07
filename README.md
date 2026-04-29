@@ -1,6 +1,6 @@
-<!-- HEADER -->
+<!-- 🌊 HEADER -->
 <p align="center">
-  <img src="./DripBanner.png" width="100%" />
+  <img src="https://media.giphy.com/media/3o7TKsQ8UQ9e4gS5PO/giphy.gif" width="100%" />
 </p>
 
 <h1 align="center">✨ Hello, I'm Ahbed ✨</h1>
@@ -10,73 +10,39 @@
 
 ---
 
-## 🎧 Recently Played Song
+<h1 align="center">Hey, I'm Kingston C</h1>
+<h3 align="center"> Web Developer |  Active Daily |  Building Modern Web Apps</h3>
+
 <p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=YOUR_SPOTIFY_USERNAME" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00EAFF&center=true&vCenter=true&width=500&lines=Always+Online+%F0%9F%9F%A2;Frontend+Developer;MERN+Stack+Developer;Consistency+is+My+Power" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  Daily Dev Presence
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+   Active Every Day &nbsp;&nbsp;|&nbsp;&nbsp;
+   Consistent Coding &nbsp;&nbsp;|&nbsp;&nbsp;
+   Growing Step by Step
 </p>
 
 ---
 
-## 💻 Top Languages
+## 👀 Profile Views
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img src="https://komarev.com/ghpvc/?username=Kingston-07&label=Profile%20Views&color=00eaff&style=for-the-badge" />
 </p>
 
 ---
 
-## ⏱️ WakaTime Stats
+##  About Me
 
-<!-- Replace with your API -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 🚀 About Me
-
-- 🔭 Working on: MERN Stack Projects  
-- 🌱 Learning: Advanced AI & System Design  
-- 👨‍💻 Portfolio: Coming Soon  
-- ⚡ Fun fact: I build things fast 🚀  
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## 🧠 Quote
-
-> "Code. Create. Conquer."
-
----
-
-<p align="center">✨ Made with ❤️ by Ahbed ✨</p>
+```yaml
+Name: Kingston C
+Role: Web Developer
+Status: Active Daily 🟢
+Stack: MERN (MongoDB, Express, React, Node)
+Focus: Clean UI + Performance
+Goal: Become Top 1% Developer 🚀
