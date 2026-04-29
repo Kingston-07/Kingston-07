@@ -1,14 +1,13 @@
 <!-- 🌊 HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ9e4gS5PO/giphy.gif" width="100%" />
+<<<<<<< HEAD
+  <img src="./DripBanner.png" width="100%" />
 </p>
 
 <h1 align="center">✨ Hello, I'm Ahbed ✨</h1>
 <p align="center">
   💻 Web Developer | 🤖 AI Enthusiast | 🚀 Building Cool Stuff
-</p>
 
----
 
 <h1 align="center">Hey, I'm Kingston C</h1>
 <h3 align="center"> Web Developer |  Active Daily |  Building Modern Web Apps</h3>
