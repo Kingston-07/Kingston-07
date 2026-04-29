@@ -17,14 +17,14 @@
 ## 🟢 Daily Dev Presence
 
 <p align="center">
-  🔥 Active Every Day  
-  💻 Consistent Coding  
-  🚀 Growing Step by Step  
+  🔥 Active Every Day &nbsp;&nbsp;|&nbsp;&nbsp;
+  💻 Consistent Coding &nbsp;&nbsp;|&nbsp;&nbsp;
+  🚀 Growing Step by Step
 </p>
 
 ---
 
-## 👀 Profile Views (Ranking Vibe)
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kingston-07&label=Profile%20Views&color=00eaff&style=for-the-badge" />
@@ -38,6 +38,6 @@
 Name: Kingston C
 Role: Web Developer
 Status: Active Daily 🟢
-Focus: MERN Stack Development
-Mindset: Consistency > Motivation
-Goal: Top 1% Developer 🚀
+Stack: MERN (MongoDB, Express, React, Node)
+Focus: Clean UI + Performance
+Goal: Become Top 1% Developer 🚀
