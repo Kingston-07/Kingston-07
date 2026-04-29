@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKsQ8UQ9e4gS5PO/giphy.gif" width="100%" />
+  <img src="./DripBanner.png" width="100%" />
 </p>
 
 <h1 align="center">✨ Hello, I'm Ahbed ✨</h1>
