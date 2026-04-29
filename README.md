@@ -6,10 +6,28 @@
 ---
 
 <h1 align="center">Hey 👋, I'm Kingston C</h1>
-<h3 align="center">💻 Web Developer | 🚀 Building Modern & Responsive Web Apps</h3>
+<h3 align="center">💻 Web Developer | 🟢 Active Daily | 🚀 Building Modern Web Apps</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00EAFF&center=true&vCenter=true&width=500&lines=Frontend+Developer;React+%7C+Node+%7C+MongoDB;UI%2FUX+Focused;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00EAFF&center=true&vCenter=true&width=500&lines=Always+Online+%F0%9F%9F%A2;Frontend+Developer;MERN+Stack+Developer;Consistency+is+My+Power" />
+</p>
+
+---
+
+## 🟢 Daily Dev Presence
+
+<p align="center">
+  🔥 Active Every Day  
+  💻 Consistent Coding  
+  🚀 Growing Step by Step  
+</p>
+
+---
+
+## 👀 Profile Views (Ranking Vibe)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kingston-07&label=Profile%20Views&color=00eaff&style=for-the-badge" />
 </p>
 
 ---
@@ -19,6 +37,7 @@
 ```yaml
 Name: Kingston C
 Role: Web Developer
-Specialization: Frontend & MERN Stack
-Focus: Responsive Design + Clean UI
-Goal: Build fast, scalable web apps
+Status: Active Daily 🟢
+Focus: MERN Stack Development
+Mindset: Consistency > Motivation
+Goal: Top 1% Developer 🚀
